@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+* {
+  box-sizing: border-box;
+}
+
+header{
+	background-color: rgb(176,164,179);
+}

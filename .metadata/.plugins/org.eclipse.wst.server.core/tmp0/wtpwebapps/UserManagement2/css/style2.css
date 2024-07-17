@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+table, th, td {
+	
+  padding:5px;
+  border: 1px solid;
+}
+ table td a{
+ margin:5px;
+ padding:2px;
+ }
+ body{
+
+ }
+table{
+	border:2px-solid-blue;
+   background-color:rgb(87,244,255);
+	width:100%;
+}
+header{
+	height:90px;
+	width:100%;
+	background-color:rgb(87,244,255);
+	color:white;
+	
+}
+.headerDiv{
+	margin-left:30rem;
+	margin-top:10px;
+}
